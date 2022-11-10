@@ -1,0 +1,6 @@
+print((101 + 0) / 3)
+print(3.0e-6 * 10000000.1)
+print(True & True)
+print(False & True)
+print((False & False) | (True & True))
+print((False | False) & (True & True))
